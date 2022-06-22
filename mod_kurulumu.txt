@@ -1,0 +1,12 @@
+1) 1- proxy yazılımını kurun
+2) 2- ipv6 proxy oluşturun
+./home.sh menu açma
+3) menuden f5 mod kurulum gelin ve enterleyin
+4)1 ile f5 modunu kurun gerekli ayarlamaları belirleyin
+kurulum bitince otomatik başlayacaktır.
+5) ana menu gelerek upload edebilirsiniz.
+
+iyi kullanımlar
+
+F5 Lisans kodu: 
+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
