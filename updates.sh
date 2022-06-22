@@ -1,3 +1,5 @@
+Script Hızlandırıldı bekleme süreleri azaltıldı.
+
 1) Cpu için Özel optimize edildi.
 
 daha esnek ve az cpu kullanımı sağlandı (değişkenlik gösterebilir)
