@@ -4,9 +4,11 @@ Script Hızlandırıldı bekleme süreleri azaltıldı.
 
 daha esnek ve az cpu kullanımı sağlandı (değişkenlik gösterebilir)
 
-1 - 2 adet auth hatası giderildi.
+2) - 2 adet auth hatası giderildi.
 
-2) 2 Günlük herkese F5 mod Hediye
+3) 2 Günlük herkese F5 mod Hediye
+
+4) APİ UPLOAD eklenmiştir.
 
 Gerekli Kurulum Talimatları:
 
