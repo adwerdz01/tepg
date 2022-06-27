@@ -1,20 +1,15 @@
-Script Hızlandırıldı bekleme süreleri azaltıldı.
+----------------------------------------------------------------------
 
-1) Cpu için Özel optimize edildi.
+> Eklenilmesini İstediğiniz, Daha iyi olurdu dediğiniz Öneriniz var ise
 
-daha esnek ve az cpu kullanımı sağlandı (değişkenlik gösterebilir)
+> R10: https://www.r10.net/profil/128208-adwerd0z1.html
 
-2) - 2 adet auth hatası giderildi.
+> veya
 
-3) 2 Günlük herkese F5 mod Hediye
+> WhatsApp: https://wa.me/15795206874
 
-4) APİ UPLOAD eklenmiştir.
+> ile belirtebilirsiniz. Değerlendirilip eklenebilir.
 
-Gerekli Kurulum Talimatları:
-
---------
-https://raw.githubusercontent.com/adwerdz01/tepg/main/mod_kurulumu.txt
---------
-mouse ile seçin ve Ctrl c ile kopyalayabilirsiniz
+----------------------------------------------------------------------
 
 enter basarak bu ekranı geçebilirsiniz...
